@@ -8,7 +8,7 @@ const productos =
             nombre: "¡Bienvenidos a los libros mas recomendados!😊",
             id: "libros"
         },
-        precio: 1000
+        precio: 40
     },
     {
         id: "libros-02",
